@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "276d567a_251e53c3",
+        "filename": "bootctrl.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1015389
+      },
+      "writtenOn": "2019-04-21T23:53:40Z",
+      "side": 1,
+      "message": "I think user can override this variable so\ndefine MISC_PARTITION by BoardConfig.mk or other config files.",
+      "range": {
+        "startLine": 27,
+        "startChar": 8,
+        "endLine": 27,
+        "endChar": 22
+      },
+      "revId": "669f828ec95de96a7987c8b04c9b8529c3055757",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
